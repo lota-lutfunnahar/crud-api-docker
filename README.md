@@ -4,3 +4,6 @@ this readme file will help for understand the process of insert update and delet
 ### docker compose up
 `docker-compose up -d --build`
 
+### Docker running container
+`docker ps`
+
