@@ -7,3 +7,5 @@ this readme file will help for understand the process of insert update and delet
 ### Docker running container
 `docker ps`
 
+### Docker compose down
+`docker-compose down`
