@@ -9,3 +9,5 @@ this readme file will help for understand the process of insert update and delet
 
 ### Docker compose down
 `docker-compose down`
+### Docker volumn down
+`docker-compose down -d`
