@@ -2,12 +2,20 @@
 this readme file will help for understand the process of insert update and delete information
 
 ### docker compose up
-`docker-compose up -d --build`
+```
+docker-compose up -d --build
+```
 
 ### Docker running container
-`docker ps`
+```
+docker ps
+```
 
 ### Docker compose down
-`docker-compose down`
+```
+docker-compose down
+```
 ### Docker volumn down
-`docker-compose down -d`
+```
+docker-compose down -d
+```
