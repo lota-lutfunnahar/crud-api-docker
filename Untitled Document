@@ -1,3 +1,4 @@
+# initially add the comment for github
 echo "# crud-api-docker" >> README.md
 git init
 git add README.md
